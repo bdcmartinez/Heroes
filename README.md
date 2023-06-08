@@ -10,5 +10,3 @@ Pueden hacer lo que quieran...
 hola mundooooo
 
 estos cambios son nuevos
-
-cambios desde git hub
